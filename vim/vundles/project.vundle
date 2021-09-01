@@ -1,0 +1,5 @@
+Bundle "jistr/vim-nerdtree-tabs.git"
+Bundle "preservim/nerdtree.git"
+Bundle 'junegunn/fzf'
+Bundle "xolox/vim-misc"
+Bundle "xolox/vim-session"
